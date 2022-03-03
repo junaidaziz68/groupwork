@@ -22,7 +22,7 @@
 
 | product  | **items**|
 | --------- | -------- |
-| **_ product_** | cheese|
+|**_items_**| cheese|
 
 
 
