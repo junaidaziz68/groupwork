@@ -21,4 +21,4 @@ im good
 cool
 ![Search for it](https://i.ytimg.com/vi/OEGm7LXAN_c/maxresdefault.jpg)
 
-mg align="left" width="100" height="100" src="https://i.ytimg.com/vi/OEGm7LXAN_c/maxresdefault.jpg">
+img align="left" width="100" height="100" src="https://i.ytimg.com/vi/OEGm7LXAN_c/maxresdefault.jpg">
