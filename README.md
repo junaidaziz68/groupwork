@@ -16,6 +16,7 @@
 
 <details>
   <summary>hello open this now</summary>
+  this is hidden
   </details>
 
 
