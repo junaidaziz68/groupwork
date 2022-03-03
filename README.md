@@ -16,7 +16,7 @@
 
 <details>
   <summary>hello open this now</summary>
-  this is hidden
+  tari mao ni pudi mara 
   </details>
 
 
